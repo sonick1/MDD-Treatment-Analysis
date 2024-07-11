@@ -3,11 +3,10 @@ title: "01_MDD_Analysis"
 author: "Sonick Suri"
 date: "2024-07-08"
 output:
-  html_document:
-    theme: cerulean
+  github_document:
     toc: true
     toc_depth: 4
-    toc_float: true
+
 ---
 
 ## 1. Introduction
